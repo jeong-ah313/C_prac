@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\git\C_prac\50balls moving\Debug\50balls moving.exe
+C:\Users\user\Desktop\git\C_prac\50balls moving\Debug\50balls moving.pdb
